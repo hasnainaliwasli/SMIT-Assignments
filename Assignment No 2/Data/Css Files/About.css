@@ -1,0 +1,53 @@
+#img1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+    height: 30%;
+}
+
+#heading2{
+
+    text-align: center;
+}
+
+#heading3{
+    text-align: center;
+
+}
+
+#para1{
+
+    text-align-last: center;
+}
+#para2{
+
+    text-align-last: center;
+}
+#para3{
+
+text-align-last: center;
+    
+}
+
+#link{
+
+    text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#shef{
+
+    text-align: center;
+}
+
+#proud{
+
+    text-align: center;
+}
+
+#copyright{
+
+    text-align: center;
+}

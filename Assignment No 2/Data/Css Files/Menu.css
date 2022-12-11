@@ -1,0 +1,46 @@
+
+#img1{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 33%;
+    
+    }
+    
+    #link{
+        
+        text-align:center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+
+    #heading2{
+
+        text-align: center;
+    }
+    #heading3{
+
+        text-align: center;
+    }
+    #heading4{
+
+        text-align: center;
+    }
+
+
+#img2{
+
+    padding-left: 230px;
+}
+#img3{
+
+    padding-left: 230px;
+}
+
+#copyright{
+
+    text-align: center;
+}

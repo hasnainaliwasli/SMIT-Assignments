@@ -1,0 +1,47 @@
+
+
+
+#heading1{
+    text-align: Center;
+}
+
+
+
+th{
+    
+width: 30%;
+
+}
+
+td{
+
+width: 20%;
+
+}
+
+#copyright{
+
+    text-align: center;
+}
+
+#Menu{
+
+    text-align: center;
+}
+
+img{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 30%;
+width: 33%;
+
+}
+
+#link{
+
+    text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
